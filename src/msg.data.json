@@ -1,0 +1,16 @@
+[
+  {
+    "key": {
+      "remoteJid": "6289503740700-1609767384@g.us",
+      "fromMe": false,
+      "id": "4B969DA700040F427BF7B11F8BCE9DC4"
+    },
+    "message": {
+      "conversation": "Gabilang kau"
+    },
+    "messageTimestamp": "1613163461",
+    "status": "ERROR",
+    "participant": "6282292741766@s.whatsapp.net",
+    "ephemeralOutOfSync": false
+  }
+]
